@@ -1,5 +1,5 @@
 # Pune_Metro_Route_Traversal
-Pune_Metro_Route_Traversal_Application
+
 This is Metro Route Traversal System implemented in C programming language. It accepts Source station and destination station from user and assists him with following:
 
 Features
